@@ -1,0 +1,114 @@
+Go to Facebook
+Enter username & password
+Wait for login button to be clickable
+Click login
+Validate login success
+
+-----------------------------------------------------------
+
+Go to myntra
+search for puma 
+select any option from the auto-suggestions and click on it
+select the product(will open in new tab)
+handle the new tab 
+add product to cart
+
+-----------------------------------------------------------
+
+Go to https://www.icici.bank.in/
+click on accounts
+click on apply(opens in new tab, handle it)
+enter the details(fake data)
+click on apply now
+validate unsuccessfull message
+
+-----------------------------------------------------------
+
+Go to https://www.netmeds.com/
+hover to medicines using ActionChains
+click on order online
+Go to order using prescription
+upload some text file using file upload popup
+
+-----------------------------------------------------------
+
+Go to https://www.netmeds.com/
+click on signin
+enter your valid mobile number
+click get otp
+enter the otp and validate the succesfull login
+
+-----------------------------------------------------------
+
+Go to https://www.irctc.co.in/nget/train-search
+enter from, to, select the date, handle the dropdowns and click on search trains
+try to book a train
+
+-----------------------------------------------------------
+
+Go to https://www.purplle.com/
+hover to brands
+search for lakme and click on it
+scroll until the first item is visible
+click on first product
+Enter pincode and check if it is available
+
+-----------------------------------------------------------
+
+Go to https://lifeinsurance.adityabirlacapital.com/
+click on her insurance
+enter the data using data driven testing
+
+-----------------------------------------------------------
+
+Go to https://www.apollopharmacy.in/
+click on find doctors
+click on general physician
+click on the first doctor available
+select the date
+select the time
+click on continue
+
+-----------------------------------------------------------
+
+Go to https://porter.in/
+enter city
+click on packers and movers
+enter pickup location
+enter drop location
+enter phone num
+enter shifting date
+check the price
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
